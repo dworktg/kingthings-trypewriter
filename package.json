@@ -1,0 +1,11 @@
+{
+  "name": "kingthings-trypewriter",
+  "version": "1.0.0",
+  "description": "Kingthings Trypewriter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dworktg/kingthings-trypewriter.git"
+  },
+  "author": "dworktg",
+  "license": "See LICENSE.txt"
+}
